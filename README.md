@@ -68,7 +68,7 @@ Mock community data collection
 
   Reference:
 
-  Comment:
+  Comment: [strain information](https://files.zymoresearch.com/protocols/_d6300_zymobiomics_microbial_community_standard.pdf)
 
 + ZymoBIOMICS gut microbiome standard(Zymo D6331)
 
